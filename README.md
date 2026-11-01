@@ -16,7 +16,7 @@ Browser-based sign language recognition — real-time ASL alphabet detection run
 
 ## Results
 - Validation accuracy: ~90.8% on a 29-class ASL alphabet baseline (early experiment)
-- Inference: ~36 FPS measured on an 8th-gen i7 laptop (target: 60 FPS)
+- Inference: ~47 FPS measured on an 8th-gen i7 laptop (target: 60 FPS)
 - Model: EfficientNetB0, converted to ONNX
 - Training: trained by me
 
